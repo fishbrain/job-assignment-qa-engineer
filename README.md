@@ -2,10 +2,10 @@
 
 The goal of this project is to assess QA engineering skills. 
 
-- Project Name: Fishbrain Automated test suite
-- Project Goal: Creating an automated test suite testing Fishbrain’s public endpoints
-- Technology: SOAP UI / JMeter / Other
-- Deliverables: Exported, runnable test suite in xml or zip file with project files uploaded using the greenhouse.io link that will be provided during the interview process.
+- **Project Name:** Fishbrain Automated test suite
+- **Project Goal:** Creating an automated test suite testing Fishbrain’s public endpoints
+- **Technology:** SOAP UI / JMeter / Other
+- **Deliverables:** Exported, runnable test suite in xml or zip file with project files uploaded using the greenhouse.io link that will be provided during the interview process.
 
 **Description:**  Creating an automated test suite testing Fishbrain’s public endpoints described below. Try being creative by finding endpoints that don’t work, covering expected http error codes, doing some limited load testing etc. Also describe the tests structure and whatever is necessary.
 
